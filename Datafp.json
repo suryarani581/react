@@ -1,0 +1,54 @@
+{
+	"details":{
+		"name":"Surya Rani",
+		"image1":"downloads/red.jpg",
+		"email":"suryaranipayla.99@gmail.com",
+		"number":"+91-6302466088",
+		"address":" D.no:23C-3/1,Near gandhi nagar municipal high school, Eluru-2"
+	},
+	"careerobjective":{
+		"info":"To secure a challenging position in a reputable organization to expand my learnings, knowledge, and skills"
+	},
+	"educationalqualification":[
+
+
+		{
+
+			"institute":"Eluru college of engineering and technology",
+			"degree":"B.tech",
+			"passoutyear":"2021",
+			"percentage":"70%"
+		},
+		{
+			"institute":"NRI Junior College",
+			"degree":"Intermediate",
+			"passoutyear":"2017",
+			"percentage":"84%"
+		},
+		{
+			"institute":"Sri Sasi Public school",
+			"degree":"SSC",
+			"passoutyear":"2015",
+			"percentage":"73%"
+		}
+
+	],
+
+	"techinicalskills":[
+		{
+		"title":"programming langauges",
+		"info":["c,c++,java,python,R"]
+	},
+		{
+		"title":"Databases",
+		"info":["oracle,sql,mysql,TinyDB,mongodb"]
+	},
+		{
+		"title":"OPerating system",
+		"info":["windows,linux,ubuntu,Dos"]
+	}
+
+	]
+
+
+} 
